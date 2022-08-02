@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-[Your Link Here](https://mega.nz/file/i8UWyCrJ#KyP683b2TsHHxr6j7TJ0IONKLDzgPUgyWvMI-o3rjNw)
+[Your Link Here](https://www.youtube.com/)
 source "sharedFuncs.sh"
 
 function main() {
