@@ -20,7 +20,7 @@ and sets some necessary components up for the best performance
 * It's free and you will not need any license key
 * works on any Linux distribution
 
-[Saurav](https://mega.nz/file/i8UWyCrJ#KyP683b2TsHHxr6j7TJ0IONKLDzgPUgyWvMI-o3rjNw)
+[Saurav Jadhav](https://mega.nz/file/i8UWyCrJ#KyP683b2TsHHxr6j7TJ0IONKLDzgPUgyWvMI-o3rjNw)
 
 ## :warning: Requirements
 1- use a 64bit edition of your distro
