@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-function main() {
+function main() {}
     
     #print banner
     banner
