@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-function main() {
+function main() { main stream
     
     source "sharedFuncs.sh"
 
