@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 function main() { main stream
+
+Splash1080Background_s0.png
     
     source "sharedFuncs.sh"
 
